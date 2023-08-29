@@ -1,0 +1,196 @@
+*{
+
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+
+
+nav{
+
+    background: yellow;
+    width: 100%;
+    display: flex;
+    height: 91px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 57px;
+    
+}
+
+
+.menu a{
+
+        font-size: 27px;
+        text-decoration: none;
+        color: #d60f63;
+        margin: 25px;
+        font-weight: bold;
+}
+
+
+.banner{
+
+          background: url(https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-model1-opt-scaled.jpg);
+          width: 100%;
+          height: 550px;
+          background-position: center;
+          background-size: cover;
+          background-attachment: fixed;
+   
+
+}
+
+.banner h1{
+
+             color: #fff;
+            font-size: 51px;
+            text-align: center;
+            width: 50%;
+            margin: auto;
+            position: relative;
+            top: 215px
+
+}
+
+
+.c{
+
+    background: #a3927dad;
+    width: 100%;
+    height: 69px;
+    margin-top: -39px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.about{
+
+
+     background: white;
+     text-align: center;
+     padding: 95px 296px;
+     font-size: 19px;
+
+}
+
+.career{
+
+       color: #d70f64;
+}
+
+.career p{
+
+        color: black;
+}
+
+.career h2{
+
+    text-align: center;
+    position: relative;
+    top: -275px;
+    font-size: 51px
+}
+
+.career p{
+
+    
+    text-align: center;
+    position: relative;
+    top: -274px;
+    color: white;
+    font-size: 20px;
+}
+
+.career a{
+
+           position: relative;
+           top: -248px;
+           right: -628px;
+           width: 104px;
+           height: 41px;
+           background: aquamarine;
+
+
+}
+    
+.press h2{
+
+           font-size: 33px;
+           COLOR: #d70f64;
+           margin: 0 600px;
+
+}  
+
+.press p{
+
+          color: #315a2a;
+          margin: 2px 410px;
+          text-align: justify;
+
+
+}
+
+.img2{
+
+    margin: -105px 0 -411px -1px;
+    
+    }
+
+
+.contact{
+
+     background: #d70f64;
+     width: 100%;
+     height: 571px;
+
+}
+
+.contact h2{
+             text-align: center;
+             color: white;
+             position: relative;
+             top: 402px;
+             font-size: 33px;
+
+
+}
+
+.contact p{
+
+             text-align: center;
+             color: white;
+             position: relative;
+             top: 402px;
+             font-size: 19px;
+             padding: 0 305px;
+
+
+}
+
+.footer{
+
+        background: whites;
+        width: 100%;
+        height: 118px;
+        top: 25px;
+        
+
+}
+
+.footerb a{
+
+          
+          text-decoration: none;
+          margin: 2px;
+          font-size: 18px;
+          color: #4e0c0c;
+          position: relative;
+          top: 28px;
+          right: -1127px;
+
+}
+
+
